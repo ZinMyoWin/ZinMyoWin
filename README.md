@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**ZinMyoWin/zinmyowin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm ZinMyoWin, a passionate developer constantly exploring new technologies and improving my skills.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on various exciting projects.
+- 🌱 I’m currently learning Software Engineering at Lithan Educlaas.
+- 👯 I’m looking to collaborate on open-source projects.
+- 🤔 I’m looking for help with contributing to large-scale projects.
+- 💬 Ask me about web and application development.
+- 📫 How to reach me: zinmyowin0567@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving puzzles and playing chess.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories and connect with me!
