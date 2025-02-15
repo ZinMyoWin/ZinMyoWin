@@ -6,7 +6,7 @@ I'm ZinMyoWin, a passionate developer constantly exploring new technologies and 
 - 🌱 I’m currently learning Software Engineering at Lithan Educlaas.
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with contributing to large-scale projects.
-- 💬 Ask me about web and application development.
+- 💬 Ask me about web and mobile application development.
 - 📫 How to reach me: zinmyowin0567@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and playing chess.
